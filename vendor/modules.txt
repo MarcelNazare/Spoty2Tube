@@ -1,0 +1,38 @@
+# github.com/VividCortex/ewma v1.1.1
+## explicit
+github.com/VividCortex/ewma
+# github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
+## explicit
+github.com/acarl005/stripansi
+# github.com/google/uuid v1.1.1
+## explicit
+github.com/google/uuid
+# github.com/kkdai/youtube v1.2.4
+## explicit; go 1.14
+github.com/kkdai/youtube
+github.com/kkdai/youtube/pkg/decipher
+# github.com/mattn/go-runewidth v0.0.9
+## explicit; go 1.9
+github.com/mattn/go-runewidth
+# github.com/vbauerster/mpb/v5 v5.2.4
+## explicit; go 1.14
+github.com/vbauerster/mpb/v5
+github.com/vbauerster/mpb/v5/cwriter
+github.com/vbauerster/mpb/v5/decor
+github.com/vbauerster/mpb/v5/internal
+# github.com/zmb3/spotify v1.3.0
+## explicit; go 1.14
+github.com/zmb3/spotify
+# golang.org/x/net v0.30.0
+## explicit; go 1.18
+golang.org/x/net/context
+golang.org/x/net/internal/socks
+golang.org/x/net/proxy
+# golang.org/x/oauth2 v0.23.0
+## explicit; go 1.18
+golang.org/x/oauth2
+golang.org/x/oauth2/internal
+# golang.org/x/sys v0.26.0
+## explicit; go 1.18
+golang.org/x/sys/unix
+golang.org/x/sys/windows
