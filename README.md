@@ -1,6 +1,6 @@
 ## Spotify to YouTube Song Downloader
 
-This script automates downloading your favorite songs from Spotify to YouTube for offline listening. 
+This program automates downloading your favorite songs from Spotify to YouTube for offline listening. 
 
 **How it Works:**
 
@@ -19,7 +19,7 @@ This script automates downloading your favorite songs from Spotify to YouTube fo
 
 **Getting Started:**
 
-1. **Prerequisites:** Python 3 and required libraries (installation instructions coming soon!).
+1. **Prerequisites:** Required libraries (installation instructions coming soon!).
 2. **Configuration:** Set up your Spotify and YouTube API credentials (instructions coming soon!).
 3. **Run the Script:** Execute the script to download your Spotify songs.
 
