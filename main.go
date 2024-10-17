@@ -11,5 +11,6 @@ import(
 )
 
 func main() {
-	fmt.Println("Hello, World!")
+	fmt.Println("Hello, welcome to Spoty2Tube ....")
+	fmt.Println("This tool automates transferring your Spotify library to YouTube. It fetches songs, downloads them, and organizes them efficiently. Save time and effort with this user-friendly solution.")
 	}
